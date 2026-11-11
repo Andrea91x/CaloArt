@@ -1,30 +1,30 @@
 [
   {
     "id": "q1",
-    "titolo": "",
-    "info": "",
-    "descrizione": "",
+    "titolo": "Alle porte del Paradiso vieni a prendermi Tu",
+    "info": "Collezione Blusmita",
+    "descrizione": "La memoria di un amore che attraversa tutta una vita.\n\nE allora ho dipinto una porta.\nNon so dove conduca.\nSo soltanto che, quando sarà il momento,\nvorrei trovarti dall'altra parte.\n\nE vorrei che fossi tu\na venire incontro a me.\n\nAlle porte del paradiso,\nvieni a prendermi tu.",
     "foto": "opere/q1.jpg"
   },
   {
     "id": "q2",
-    "titolo": "",
-    "info": "",
-    "descrizione": "",
+    "titolo": "Rosa dei venti",
+    "info": "Collezione Emozioni",
+    "descrizione": "Un'opera astratta e materica che nasce dall'incontro tra gesto, colore e orientamento. La superficie è costruita attraverso una fitta sovrapposizione di pennellate, segni e frammenti, in cui prevalgono i rossi, i bordeaux, gli aranci e i rosa, attraversati da accenti di blu e da preziosi interventi dorati.\n\nAl centro della composizione emerge una bussola, quasi un punto di riferimento all'interno di uno spazio in continuo movimento. Intorno ad essa si distribuiscono croci, forme circolari, tracce e frammenti che evocano mappe, coordinate, rotte e luoghi da raggiungere. I frammenti dorati sembrano appartenere a una carta antica, mentre i piccoli segni blu introducono un richiamo all'acqua e al viaggio.\n\nLa rosa dei venti diventa così il simbolo di una ricerca: trovare una direzione attraversando un territorio che non è soltanto geografico, ma anche interiore.",
     "foto": "opere/q2.jpg"
   },
   {
-    "id": "q4",
-    "titolo": "",
-    "info": "",
-    "descrizione": "",
-    "foto": "opere/q4.jpg"
+    "id": "q3",
+    "titolo": "il mio cuore è a pois",
+    "info": "Collezione Blusmita",
+    "descrizione": "Un amore che vive per sempre nel cuore.\nQuest'opera racconta un amore puro, profondo e senza confini, un amore eterno, quello che solo un amico a quattro zampe sa donare.\n\nLe forme morbide, i rilievi materici e le linee nere che disegnano il cuore racchiudono l'essenza di Blusmita la mia dalmata, una compagna di vita che ha lasciato impronte indelebili nell'anima.\n\nIl bianco della superficie richiama il candore, la dolcezza e la purezza del suo amore, mentre le lacrime a pois neri evocano le sue macchie inconfondibili.\n\nBlusmita per sempre con me.\nIl mio cuore non è rosso ed io non ho il sangue che ci scorre dentro.\nIl mio cuore è a pois e dentro esso scorrono lacrime bianche a pallini neri.",
+    "foto": "opere/q3.jpg"
   },
   {
-    "id": "q3",
-    "titolo": "",
-    "info": "",
-    "descrizione": "",
-    "foto": "opere/q3.jpg"
+    "id": "q4",
+    "titolo": "Crudelia le macchie vengono dopo",
+    "info": "Collezione Blusmita",
+    "descrizione": "Questa opera è un inno alla libertà.\n\nOgni macchia è un gesto, ogni segno è un'emozione, ogni schizzo racconta un frammento di vita. Non c'è un ordine da seguire, ma un universo di sensazioni da scoprire.\n\nÈ proprio nel caos apparente che nasce l'armonia: una bellezza autentica, libera da regole e convenzioni. La superficie tridimensionale rende l'opera ancora più viva, come se i colori volessero uscire dalla tela e raggiungere chi la osserva.\n\nUn inno alla libertà.",
+    "foto": "opere/q4.jpg"
   }
 ]
